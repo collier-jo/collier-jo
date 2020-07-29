@@ -221,7 +221,6 @@ Makers Academy is a highly selective 16 week, full-time program (preceded by a f
 Teaches the value the importance of ‘thinking through making’, using practical experimentation and different critical approaches. Develop an understanding of the inter-relationship between humans and objects and reflect upon people’s interactions with the material world through a postcolonial lens.
 
 * My practise focused on Video Installation exploring disability, queerness and playing with concepts of the audience (who is watching who..) 
-* Dissertation 
 * Skills: Ceramics (throwing and hand sculpting), Resin, Plaster, Metal work, wood work, Adobe Suite (inc Photoshop and Premiere)  
 
 **Art and Design Foundation** *Distinction (Northbrook College, 2013 - 2014)*
