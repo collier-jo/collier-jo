@@ -3,19 +3,15 @@
 <h1 align="center">Jo Collier</h1>
 
 <div align="center">
-
 [Website & Blog](http://jocollier.surge.sh/) |
 [Email](mailto:jocollier.it@gmail.com) | 
 [LinkedIn](https://www.linkedin.com/in/jo-collier-1ba7b911b/) | 
 [Youtube](youtube.com/channel/UC4jsOtEqIsJRZ7kXUjRSWMw) 
-
-
 </div>
 
 ## 
 
 <div align="center">
-
 [Background ](#background) |
 [Projects ](#projects) | 
 [Tech Skills](#technical) |
@@ -23,7 +19,6 @@
 [Experience ](#experience) | 
 [Education ](#education) | 
 [Interests ](#interests)
-
 </div>
 
 ## Background 
