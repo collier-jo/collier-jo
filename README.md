@@ -118,7 +118,7 @@ The ability to pin point the needs of a client and respond appropriately enabled
 
 ## Experience 
 
-**Junior IT Service Desk Analyst**
+### Junior IT Service Desk Analyst
 *UAL, 272 High Holborn, London, WC1V 7EY (Oct 2017 –Mar 2020)*
 
 The first point of contact to Students, Staff and 3rd Party Suppliers for IT Services providing a consistently professional service, targeted to resolve 80% of Service Requests on first contact. 
@@ -135,7 +135,7 @@ The first point of contact to Students, Staff and 3rd Party Suppliers for IT Ser
 * Adherence to GDPR data protection policies
 </details>
 
-**Support Analyst** 
+### Support Analyst
 *UAL, 272 High Holborn, London, WC1V 7EY (Mar 2018 – May 2018)*
 
 After working in 1st line support, I was given the opportunity for a secondment within the 2nd line support team. My role was to support PC and Mac hardware/ software maintenance and fault finding on desktops, laptops and printers. Additionally, to support University wide projects such as the role out of Windows 10. 
@@ -153,7 +153,7 @@ After working in 1st line support, I was given the opportunity for a secondment 
 * Staying abreast of developments in software, hardware and company changes 
 </details>
 
-**Peer Advisor**
+### Peer Advisor
 *Thames Reach, 29 Peckham Rd, Camberwell, London, SE5 8UA (Sep 2017 – May 2018)*
 
 My role as a peer advisor was working within the employment service, providing professional and effective service to people who have experienced homelessness, supporting them to get back into work.
@@ -168,13 +168,13 @@ My role as a peer advisor was working within the employment service, providing p
     
 </details>
 
-**10 years customer service**
+### 10 years customer service**
 *Various Locations*
 
 
 ## Education
 
-**Makers Academy** 
+### Makers Academy
 *(March 2020 - July 2020)*
  
 Makers Academy is a highly selective 16 week, full-time program (preceded by a four-week pre-course) which teaches web development. Due to the pandemic this course was **fully remote**. Each week we would do independent learning coupled with collaborative pair programming or agile teams on full stack, fully Test Driven, gitHub projects. 
@@ -185,7 +185,7 @@ Makers Academy is a highly selective 16 week, full-time program (preceded by a f
 * Programming Fundamentals: Focus on OOP principles, MVC Design Pattern, Agile Development, XP Values,  Scrum methodology, Diagramming (inc sequence, domain and CRC) and GitbHub
 * Technical skills (see [Tech Skills](#technical))
 
-**CompTia Essentials** 
+### CompTia Essentials
 *In progress*
 
 * Troubleshoot and problem solve core service and support challenges while applying best practices for documentation, change management, and scripting
@@ -194,7 +194,7 @@ Makers Academy is a highly selective 16 week, full-time program (preceded by a f
 * Configure and support PC, mobile and IoT device hardware
 * Implement basic data backup and recovery methods and apply data storage and management best practices
 
-**Project Management - Foundation Programme** 
+### Project Management - Foundation Programme
 *UAL (8th - 9th January 2020)*
 * Explain the three dimensions of effective project management: Governance, Process, People
 * Understand the five phases of good practise project process: Define/ Plan/ Implement/ Close/ Evaluate 
@@ -203,8 +203,7 @@ Makers Academy is a highly selective 16 week, full-time program (preceded by a f
 * Evaluate projects effectively
 
 
-
-**Coding – HTML, CSS Javascript & JQuery (Short Course)**
+### Coding – HTML, CSS Javascript & JQuery (Short Course)
 *(Chelsea College of Arts, UAL, 18th - 21st Dec 2018)*
 
 * Using HTML to add structure and meaning to your content
@@ -214,7 +213,7 @@ Makers Academy is a highly selective 16 week, full-time program (preceded by a f
 * Understanding the challenges of responsive web design and working in a fluid medium
 * Organising and planning a small web project using tools to upload your work to the internet
 
-**BA (Hons) Fine Art Sculpture** 
+### BA (Hons) Fine Art Sculpture 
 *2.1 Merit Plus (UAL Camberwell College of Arts, 2014-2017)*
 
 Teaches the value the importance of ‘thinking through making’, using practical experimentation and different critical approaches. Develop an understanding of the inter-relationship between humans and objects and reflect upon people’s interactions with the material world through a postcolonial lens.
@@ -222,15 +221,20 @@ Teaches the value the importance of ‘thinking through making’, using practic
 * My practise focused on Video Installation exploring disability, queerness and playing with concepts of the audience (who is watching who..) 
 * Skills: Ceramics (throwing and hand sculpting), Resin, Plaster, Metal work, wood work, Adobe Suite (inc Photoshop and Premiere)  
 
-**Art and Design Foundation** *Distinction (Northbrook College, 2013 - 2014)*
+### Art and Design Foundation
+*Distinction (Northbrook College, 2013 - 2014)*
 
-**Art A LEVEL** *A (BHASVIC, 2011 - 2013)*
+### Art A LEVEL
+*A (BHASVIC, 2011 - 2013)*
 
-**Philosophy A LEVEL** *B (BHASVIC, 2011 - 2013)*
+### Philosophy A LEVEL
+*B (BHASVIC, 2011 - 2013)*
 
-**Classical Civilisation A LEVEL** *B (BHASVIC, 2011 - 2013)*
+### Classical Civilisation A LEVEL
+*B (BHASVIC, 2011 - 2013)*
 
-**GCSE’s** *A-B x10 (St Paul’s Catholic College)* 
+### GCSE’s
+*A-B x10 (St Paul’s Catholic College)* 
 
 ## Interests
 * [Digital Makers Collective](http://digitalmakercollective.org/) - The Digital Maker Collective (DMC) are a voluntary, informal Research & Development (R&D) who share common goals in exploring digital & emerging technologies in the context of arts practice, education, society and the creative industries. Recently we had a exhibition at the Tate Modern, [Uni to Unicorns](https://www.tate.org.uk/whats-on/tate-modern/tate-exchange/workshop/uni-unicorns), which was a test bed for creative tech. 
