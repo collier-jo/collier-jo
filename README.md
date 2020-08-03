@@ -39,7 +39,6 @@ In the past 3 years I have linked my creative brain with its alternative ways of
 
 | Title | Description | Technologies Used | Live Link |
 |--|--|--|--|
-[Portfolio Website](https://github.com/collier-jo/portfolio-website) | Personal website showing my CV, Portfolio and Blog | React, Javascript and Surge| [Click here](http://jocollier.surge.sh/) 
 [Run Boris, Run (Backend)](https://github.com/collier-jo/RunBorisRunBackend)| A backend for the 'Run Boris, Run' to enable a Scoreboard Feature. | Javascript, Jest, Node, Express, Travis & Heroku | 
 [Run Boris, Run](https://github.com/edmond-b/Covid_Game)| A 'Super Mario Bro' clone with a Covid twist written in Vanilla Javascript and fully tested. This game features a Boris character who has to stay socially distant to keep the infection rating down  |  Javascript, Jest, Node, React and Netlify| [Click here!](https://run-boris-run.netlify.app/)
 [Acebook](https://github.com/edmond-b/acebook-NO-de-Problem)| A single page facebook clone with user authentication and fully CRUD post & comments, ability to like and friend people. Written in Javascript | Node, Express, React, Javascript, Jest, Cypress and MongoDB(& Mongoose)| |
