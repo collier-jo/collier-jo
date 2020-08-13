@@ -75,7 +75,7 @@ Having done 2 years working in front line IT support, I have been able to distil
 
 Within this role, I learnt to break down the bigger issue into smaller bite sized problems, through targeted questioning to find the most likely hypothesis for issues I was facing, systematically working through the simplest answer to the higher level problems, often finding the simplest answer is correct. I would always document my findings, outcomes and solutions making to ensure I can reuse this work when a similar problem arose. 
 
-These skills have been enhanced and honed to Coding during the 16 Week Makers Bootcamp. By following a strict debugging process (as documented in my blog [here](http://jocollier.surge.sh/blog) ), I have found my systematic and analytical approach to yield efficient solutions. 
+These skills have been enhanced and honed to Coding during the 16 Week Makers Bootcamp. By following a strict debugging process, I have found my systematic and analytical approach to yield efficient solutions. 
 
     
 ### Teamwork:
@@ -216,10 +216,17 @@ Makers Academy is a highly selective 16 week, full-time program (preceded by a f
 ### BA (Hons) Fine Art Sculpture 
 *2.1 Merit Plus (UAL Camberwell College of Arts, 2014-2017)*
 
-Teaches the value the importance of ‘thinking through making’, using practical experimentation and different critical approaches. Develop an understanding of the inter-relationship between humans and objects and reflect upon people’s interactions with the material world through a postcolonial lens.
+My background in Art has honed my creative thinking enabling me to approach problems from different angles. Furthermore, I have proven project management skills where working towards a common aim, budget and deadline has been paramount to success (A Makers coach once said organising Developers is like herding
+Cats- I would say organising Artists is like herding hyperactive Kittens!)
 
-* My practise focused on Video Installation exploring disability, queerness and playing with concepts of the audience (who is watching who..) 
-* Skills: Ceramics (throwing and hand sculpting), Resin, Plaster, Metal work, wood work, Adobe Suite (inc Photoshop and Premiere)  
+- LATAWI Collective - LATEWI is an experiment in social engagement. An exploration of the unmapped
+relationship between the council estate, the community and the arts. (https://latewi.wixsite.com/latewi/about)
+- AGRUPA Collective - was created to raise awareness and the importance of diversity - primary looking at
+issues surrounding race in Art and Education. We held a 2 day symposium and exhibition to challenge the
+current notions of Diversity.
+- Skills: Facilitating Workshops, Full Adobe Suite, Film Making Resin, Ceramics (throwing, hand sculpting and
+slip casting), Wood and Metal work
+- Dissertation = "How the Artist can Champion the 'Other' "
 
 ### Art and Design Foundation
 *Distinction (Northbrook College, 2013 - 2014)*
