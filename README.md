@@ -39,13 +39,14 @@ In the past 3 years I have linked my creative brain with its alternative ways of
 
 | Title | Description | Technologies Used | Live Link |
 |--|--|--|--|
+[The Act of Laughing]()|I am developing a fun filled laughter therapy app, built in MERN stack, hosted on Netlify and testedwith Jest. Input the amount of time you have, then laugh to you hearts content. With user authentication, gratitude diary and signposting.| React, HTML, CSS, Node (&Express), Jest, MongoDB and Netlify||
+[Taped It](https://github.com/voice-notes)|An agile group project creating a nested feature in slack to send voice notes. | Node, Apollo Express server, GraphQL, Typescript, Circle CI, AWS, React, Cypress, Jest, Enzyme and ts-jest | [Click Here](https://tapedit.netlify.app/) 
 [Run Boris, Run (Backend)](https://github.com/collier-jo/RunBorisRunBackend)| A backend for the 'Run Boris, Run' to enable a Scoreboard Feature. | Javascript, Jest, Node, Express, Travis & Heroku | 
 [Run Boris, Run](https://github.com/edmond-b/Covid_Game)| A 'Super Mario Bro' clone with a Covid twist written in Vanilla Javascript and fully tested. This game features a Boris character who has to stay socially distant to keep the infection rating down  |  Javascript, Jest, Node, React and Netlify| [Click here!](https://run-boris-run.netlify.app/)
+[React-Portfolio](https://github.com/collier-jo/React-Portfolio) | After graduating Makers I have been up skilling in React to understand high level concepts such as Hooks, Lifecycle and Props.| React and Javascript||
 [Acebook](https://github.com/edmond-b/acebook-NO-de-Problem)| A single page facebook clone with user authentication and fully CRUD post & comments, ability to like and friend people. Written in Javascript | Node, Express, React, Javascript, Jest, Cypress and MongoDB(& Mongoose)| |
+[Note-able](https://github.com/collier-jo/NOTE-able)| A single page Notes App fully tested using my very own testing framework! | HTTP Server, Javascript and My own testing framework| 
 [Makers B&B](https://github.com/collier-jo/makersBnB)| AirB&B clone in Sinatra with a backend in Ruby with SQL Database, fully tested with Capybara & RSpec | Ruby, RSpec, Capybara, SQL and Sinatra||
-[Note-able](https://github.com/collier-jo/NOTE-able)| A single page Notes App fully tested using my very own testing framework! | HTTP Server, Javascript, Heroku and My own testing framework| [Click here!]()
-
-For videos of these projects either see my [website](http://jocollier.surge.sh/) or see my [youtube channel](youtube.com/channel/UC4jsOtEqIsJRZ7kXUjRSWMw)
 
 For more, please see my [GitHub repo](https://github.com/collier-jo?tab=repositories) list.
 
@@ -73,7 +74,7 @@ Tools: Google DevTools, VSCode, Adobe Photoshop/ Premiere, GitHub, MAC OSX, Wind
 
 Having done 2 years working in front line IT support, I have been able to distill complex tasks into elegant solutions with a clear plan of attack, targeted resolve 80% of Service Requests/ Incidences on first contact. 
 
-Within this role, I learnt to break down the bigger issue into smaller bite sized problems, through targeted questioning to find the most likely hypothesis for issues I was facing, systematically working through the simplest answer to the higher level problems, often finding the simplest answer is correct. I would always document my findings, outcomes and solutions making to ensure I can reuse this work when a similar problem arose. 
+Alongside a calm, confident composure, step by step analysis is often key. Essential to success is often breaking the bigger issues into smaller bite sized problems, using targeted questioning to find the most likely solution, systematically working through the simplest answers before moving onto more complex resolutions. Though it is critical to keep an eye on the ‘bigger picture’, and maintain a solution orientated approach to ensure effective resolution.
 
 These skills have been enhanced and honed to Coding during the 16 Week Makers Bootcamp. By following a strict debugging process, I have found my systematic and analytical approach to yield efficient solutions. 
 
@@ -118,6 +119,10 @@ The ability to pin point the needs of a client and respond appropriately enabled
 
 ## Experience 
 
+### Digital Makers Collective 
+*(Jan 2020 - Present)*
+As well as Makers, I am part of a voluntary, informal Research & Development (R&D) who share common goals in exploring digital & emerging technologies in the context of arts practice, education, society and the creative industries. Recently we had an exhibition at the Tate Modern, Uni to Unicorns, which was a test bed for creative tech. https://www.tate.org.uk/whats-on/tate-modern/tate-exchange/workshop/uniunicorns. Working for DMC has given
+
 ### Junior IT Service Desk Analyst
 *UAL, 272 High Holborn, London, WC1V 7EY (Oct 2017 –Mar 2020)*
 
@@ -126,45 +131,49 @@ The first point of contact to Students, Staff and 3rd Party Suppliers for IT Ser
 <details close>
     <summary>Click to see responsibilities</summary>
 
-* Troubleshoot, support and maintain users, computers and printers via the Windows Software Management client Zenworks and Apple Jamf Casper Remote 
-*  Ensure that requests are logged with full qualification using targeted questioning or information gathering to ensure the most efficient fix time and best service
-* Supporting MS Active Directory Users and Computers
-* Work within ITIL structure and CompTia 
-* Clear strong communication with users via email, phone or using remote technologies 
-* Add and maintain knowledge articles 
-* Adherence to GDPR data protection policies
+I learnt to couple my intuitive problem solving with systematic and analytical approaches. This experience. has greatly enhanced my debugging approach, allowing me to see faults as an unavoidable challengerather than a set back. I can break down the problem and work through the problem methodically until a
+solution has been reached.  
+
+While naturally I have strong communication skills, IT Support taught me the value of active listening and. targeted questioning to be able to unpick the customers needs, and efficiently resolve problems. A key responsibly within my IT Support Role was to share complicated concepts, issues and University business direction with non technical users. In reverse, I would also have to take vague, non specialist understanding of IT problems and requests, and translate them into technical, digestible with relevant business implications.
+
+* Troubleshoot, support and maintain users, computers and printers via the Windows Software Management client Zenworks and Apple Jamf Casper Remote within an iTil structure
+* Work in a cross functional operational model supporting other teams within IT, liaising across departments and with key 3rd party supplier contacts.
+* Ensure that requests are logged with full qualification using targeted questioning or information gathering to ensure the most efficient fix time and best service
+* Advising team members on complex problems
+* Training new staff and speaking on behalf of the IT department at the 'Welcome Event' for new employees
+* Add and maintain knowledge articles
+* Adherence to GDPR data protection policies 
 </details>
 
 ### Support Analyst
 *UAL, 272 High Holborn, London, WC1V 7EY (Mar 2018 – May 2018)*
 
-After working in 1st line support, I was given the opportunity for a secondment within the 2nd line support team. My role was to support PC and Mac hardware/ software maintenance and fault finding on desktops, laptops and printers. Additionally, to support University wide projects such as the role out of Windows 10. 
+While working on the Service Desk I was recognised as an exemplar within the team and given the opportunity, alongside my Service Desk role, for a secondment with the Second Line (face to face) Support team. My role was to support PC and Mac hardware/ software maintenance and fault finding on desktops, laptops and printers. Additionally, to support University wide projects such as the role out of Windows 10. 
 
 <details close>
     <summary>Click to see responsibilities</summary>
-* Configure, test, deploy and troubleshoot a varied range of software applications from MS Office to more specialist software used in the creative industry such as Adobe Suite
-* Strong organisational skills inc setting self manage workload by determining priory / timescale 
-* Liaise with students and staff via phone, email and outlook calendar 
-* Liaise with other team within the university and third party suppliers/providers such as hardware and software vendors for incident management, problem management and request fulfilment tasks
-* Deploying, configuring and managing Mac OSX , Windows 7 and Windows 10
+
+* Configure, test, deploy and troubleshoot iOS, Mac OSX , Windows 7, Windows 10 and a varied range of software applications from MS Office to more specialist software used in the creative industry such as Adobe Suite
+* Support University wide projects such as the role out of Windows 10.
+* Strong organisational skills inc setting self manage workload by determining priory / timescale
+* Liaise with other teams within the university and third party suppliers/providers such as hardware and software vendors for incident management, problem management and request fulfilment tasks
 * Networking technologies both wired and wireless including troubleshooting
-* Configuring and Troubleshooting mobile devices (mainly Apple iOS)
 * Contribute to the creation of articles and on-going maintenance of the knowledge management system
-* Staying abreast of developments in software, hardware and company changes 
+* Stay abreast of recent development in technology in order to efficiently support and maintain the running of a world class institution.
 </details>
 
 ### Peer Advisor
 *Thames Reach, 29 Peckham Rd, Camberwell, London, SE5 8UA (Sep 2017 – May 2018)*
 
-My role as a peer advisor was working within the employment service, providing professional and effective service to people who have experienced homelessness, supporting them to get back into work.
+Alongside my role in IT, I worked one day a week, as a peer advisor I was working in the employment service, providing professional and effective service to people who have experienced homelessness, supporting them to find employment
 
 <details close>
     <summary>Click to see responsibilities</summary>
-* Help pin point client abilities and knowledge, then creating a clear pathway required for successful achievement of their goal
-* Facilitate public access and help to computers: helping clients use and develop with their IT Skills
-* Have strong written communication shown through initial assessments, writing CVs and applications
-* Liaise with external services including prospective employers and training providers as required
-* Ability to build trusting relationships with clients within challenging circumstances 
+
+* Actively listen to pin point the needs of a client and respond appropriately within situations. This ability enabled me to successfully create a career plan
+* Understand underlying needs and body language being important signals.
+* Facilitate public access and help with computers: helping clients use and develop with their IT Skills
+* Build trusting, strong relations with clients within challenging circumstances
     
 </details>
 
@@ -177,12 +186,19 @@ My role as a peer advisor was working within the employment service, providing p
 ### Makers Academy
 *(March 2020 - July 2020)*
  
-Makers Academy is a highly selective 16 week, full-time program (preceded by a four-week pre-course) which teaches web development. Due to the pandemic this course was **fully remote**. Each week we would do independent learning coupled with collaborative pair programming or agile teams on full stack, fully Test Driven, gitHub projects. 
+Makers Academy is a highly selective 16 week, full-time program (preceded by a four-week pre-course) which teaches web development. Due to the pandemic this course was fully remote. Each week we would do independent learning coupled with collaborative pair programming or agile teams on full stack, fully
+Test Driven, GitHub projects. 
 
-* Learning how to learn: Constant emersion of new technologies, frameworks and languages within a growth mindset. 
-* Problem Solving: A huge focus was debugging and the understanding that nothing is hard its just new. 
-* Independent Learning: **Fully remote** learning Ruby, Javascript, Jest, Jasmine and many more inc supporting concepts as mentioned below
-* Programming Fundamentals: Focus on OOP principles, MVC Design Pattern, Agile Development, XP Values,  Scrum methodology, Diagramming (inc sequence, domain and CRC) and GitbHub
+My background has made me a flexible, engaging member of any team and allowed me to easily integrate into Maker’s culture of collaboration and Agile Development; I particularly enjoyed the group projects. It was valuable to learn how to create MVPs, plan sprints, communicate through standups and retros.
+- Learning how to learn: Constant emersion of new technologies, frameworks and languages within a
+growth mindset.
+
+
+* Problem Solving: A huge focus was debugging and the understanding that nothing is hard its just new.
+* Independent Learning: Fully remote learning Ruby, Javascript, Jest, Jasmine and many more inc
+supporting concepts as mentioned below
+* Programming Fundamentals: Focus on OOP principles, MVC Design Pattern, Agile Development, XP
+Values, Scrum methodology, Diagramming (inc sequence, domain and CRC) and GitHub
 * Technical skills (see [Tech Skills](#technical))
 
 ### CompTia Essentials
@@ -219,14 +235,10 @@ Makers Academy is a highly selective 16 week, full-time program (preceded by a f
 My background in Art has honed my creative thinking enabling me to approach problems from different angles. Furthermore, I have proven project management skills where working towards a common aim, budget and deadline has been paramount to success (A Makers coach once said organising Developers is like herding
 Cats- I would say organising Artists is like herding hyperactive Kittens!)
 
-- LATAWI Collective - LATEWI is an experiment in social engagement. An exploration of the unmapped
-relationship between the council estate, the community and the arts. (https://latewi.wixsite.com/latewi/about)
-- AGRUPA Collective - was created to raise awareness and the importance of diversity - primary looking at
-issues surrounding race in Art and Education. We held a 2 day symposium and exhibition to challenge the
-current notions of Diversity.
-- Skills: Facilitating Workshops, Full Adobe Suite, Film Making Resin, Ceramics (throwing, hand sculpting and
-slip casting), Wood and Metal work
-- Dissertation = "How the Artist can Champion the 'Other' "
+* LATAWI Collective - LATEWI is an experiment in social engagement. An exploration of the unmapped relationship between the council estate, the community and the arts. (https://latewi.wixsite.com/latewi/about)
+* AGRUPA Collective - was created to raise awareness and the importance of diversity - primary looking at issues surrounding race in Art and Education. We held a 2 day symposium and exhibition to challenge the current notions of Diversity.
+* Skills: Facilitating Workshops, Full Adobe Suite, Film Making Resin, Ceramics (throwing, hand sculpting and slip casting), Wood and Metal work
+* Dissertation = "How the Artist can Champion the 'Other' "
 
 ### Art and Design Foundation
 *Distinction (Northbrook College, 2013 - 2014)*
@@ -244,11 +256,10 @@ slip casting), Wood and Metal work
 *A-B x10 (St Paul’s Catholic College)* 
 
 ## Interests
-* [Digital Makers Collective](http://digitalmakercollective.org/) - The Digital Maker Collective (DMC) are a voluntary, informal Research & Development (R&D) who share common goals in exploring digital & emerging technologies in the context of arts practice, education, society and the creative industries. Recently we had a exhibition at the Tate Modern, [Uni to Unicorns](https://www.tate.org.uk/whats-on/tate-modern/tate-exchange/workshop/uni-unicorns), which was a test bed for creative tech. 
 
 * Art - especially ceramics, drawing, textiles and embroidery
 
-* Blogging - To reflect and track my learning I got really into blogging. See my blog on my website [here](http://jocollier.surge.sh/)
+* House Plant Care - With over 40 plants, I am on hand to make the office brighter and green. Plus have plenty of cuttings to give away.
 
 * Running and Pilates 
 
