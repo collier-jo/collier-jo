@@ -39,7 +39,7 @@ In the past 3 years I have linked my creative brain with its alternative ways of
 
 | Title | Description | Technologies Used | Live Link |
 |--|--|--|--|
-[The Act of Laughing]()|I am developing a fun filled laughter therapy app, built in MERN stack, hosted on Netlify and testedwith Jest. Input the amount of time you have, then laugh to you hearts content. With user authentication, gratitude diary and signposting.| React, HTML, CSS, Node (&Express), Jest, MongoDB and Netlify||
+[The Act of Laughing](https://github.com/collier-jo/The-Act-of-Laughing)|I am developing a fun filled laughter therapy app, built in MERN stack, hosted on Netlify and testedwith Jest. Input the amount of time you have, then laugh to you hearts content. With user authentication, gratitude diary and signposting.| React, HTML, CSS, Node (&Express), Jest, MongoDB and Netlify||
 [Taped It](https://github.com/voice-notes)|An agile group project creating a nested feature in slack to send voice notes. | Node, Apollo Express server, GraphQL, Typescript, Circle CI, AWS, React, Cypress, Jest, Enzyme and ts-jest | [Click Here](https://tapedit.netlify.app/) 
 [Run Boris, Run (Backend)](https://github.com/collier-jo/RunBorisRunBackend)| A backend for the 'Run Boris, Run' to enable a Scoreboard Feature. | Javascript, Jest, Node, Express, Travis & Heroku | 
 [Run Boris, Run](https://github.com/edmond-b/Covid_Game)| A 'Super Mario Bro' clone with a Covid twist written in Vanilla Javascript and fully tested. This game features a Boris character who has to stay socially distant to keep the infection rating down  |  Javascript, Jest, Node, React and Netlify| [Click here!](https://run-boris-run.netlify.app/)
