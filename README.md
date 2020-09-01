@@ -53,7 +53,7 @@ For more, please see my [GitHub repo](https://github.com/collier-jo?tab=reposito
 
 ## Technical
 ```
-Languages:  Javascript (& JQuery), Ruby, HTML/CSS 
+Languages:  Javascript (& JQuery), Typescript, Ruby & HTML/CSS 
 
 Testing Suites: RSPEC, Capybara, Jest (& Enzyme), Jasmine, Cypress, My test suite  
 
