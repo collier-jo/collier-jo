@@ -4,7 +4,6 @@
 
 <div align="center">
     
-[Website & Blog](http://jocollier.surge.sh/) |
 [Email](mailto:jocollier.it@gmail.com) | 
 [LinkedIn](https://www.linkedin.com/in/jo-collier-1ba7b911b/) | 
 [Youtube](youtube.com/channel/UC4jsOtEqIsJRZ7kXUjRSWMw) 
